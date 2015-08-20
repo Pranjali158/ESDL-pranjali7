@@ -2,7 +2,8 @@
 #include <iostream.h>
 int main()
 {
-  cout<<" Hey";
+  cout<<" Hey"; //hello
+  cout<<"hi";
   return 0;
 }
 
